@@ -1,0 +1,65 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "D:\\\\DevApps\\\\php74\\\\htdocs\\\\Nuxt-practice\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_48a12545"
+  },
+  {
+    "name": "blogs",
+    "path": "/blogs",
+    "component": "D:\\\\DevApps\\\\php74\\\\htdocs\\\\Nuxt-practice\\\\pages\\\\blogs\\\\index.vue",
+    "chunkName": "pages/blogs/index",
+    "_name": "_61f2a8ce"
+  },
+  {
+    "name": "Debbie OBrien",
+    "path": "/Debbie%20OBrien",
+    "component": "D:\\\\DevApps\\\\php74\\\\htdocs\\\\Nuxt-practice\\\\pages\\\\Debbie OBrien\\\\index.vue",
+    "chunkName": "pages/Debbie OBrien/index",
+    "_name": "_3f762614"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "D:\\\\DevApps\\\\php74\\\\htdocs\\\\Nuxt-practice\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_36451e12"
+  },
+  {
+    "name": "middlewareApplied",
+    "path": "/middlewareApplied",
+    "component": "D:\\\\DevApps\\\\php74\\\\htdocs\\\\Nuxt-practice\\\\pages\\\\middlewareApplied.vue",
+    "chunkName": "pages/middlewareApplied",
+    "_name": "_2fc78943"
+  },
+  {
+    "name": "others",
+    "path": "/others",
+    "component": "D:\\\\DevApps\\\\php74\\\\htdocs\\\\Nuxt-practice\\\\pages\\\\others.vue",
+    "chunkName": "pages/others",
+    "_name": "_6f0d82db"
+  },
+  {
+    "name": "weather-app",
+    "path": "/weather-app",
+    "component": "D:\\\\DevApps\\\\php74\\\\htdocs\\\\Nuxt-practice\\\\pages\\\\weather-app.vue",
+    "chunkName": "pages/weather-app",
+    "_name": "_4a874100"
+  },
+  {
+    "name": "blogs-blog",
+    "path": "/blogs/:blog",
+    "component": "D:\\\\DevApps\\\\php74\\\\htdocs\\\\Nuxt-practice\\\\pages\\\\blogs\\\\_blog.vue",
+    "chunkName": "pages/blogs/_blog",
+    "_name": "_45c20870"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\DevApps\\\\php74\\\\htdocs\\\\Nuxt-practice\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6859000a"
+  }
+]
